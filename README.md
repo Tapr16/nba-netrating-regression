@@ -58,6 +58,6 @@ https://colab.research.google.com/drive/1kBqrK3vvokUMoc_B3PssFG2oYZmP6Sn4?usp=sh
 ## 🎬 Video Explicativo
 
 🔗 **Presentación del proyecto (video):**  
-*Enlace próximamente*
+https://youtu.be/Hw0HV_1Jplo
 
 ---
