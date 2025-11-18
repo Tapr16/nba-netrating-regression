@@ -4,7 +4,7 @@
 # 🏀 Predicción del Campeón de la NBA Usando Net Rating
 
 <p align="center">
-  <img src="Banner-IA.jpg" width="100%" alt="Banner del proyecto">
+  <img src="Banner.png" width="100%" alt="Banner del proyecto">
 </p>
 
 ## 👥 Autores
